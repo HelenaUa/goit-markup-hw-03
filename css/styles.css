@@ -140,7 +140,7 @@ ul {
 /*Main Studio*/
 .section-hero {
   padding-top: 200px;
-  padding-bottom: 280px;
+  padding-bottom: 200px;
   background-color: var(--accent-bg-cl);
 }
 .title-hero {
@@ -221,6 +221,9 @@ ul {
 .list-item-work {
   width: 370px;
 }
+.section-our-work {
+  padding-top: 0;
+}
 
 .title-our-work,
 .title-our-team {
@@ -292,7 +295,7 @@ ul {
   text-align: center;
   letter-spacing: 0.06em;
   border-radius: 4px;
-  padding: 4px 30px;
+  padding: 4px 22px;
   background-color: var(--btn-cl);
   color: var(--main-txt-cl);
   cursor: pointer;
